@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false">
+        <item android:drawable="@drawable/mat1" android:duration="100" />
+        <item android:drawable="@drawable/mat2" android:duration="100" />
+        <item android:drawable="@drawable/mat3" android:duration="100" />
+        <item android:drawable="@drawable/mat4" android:duration="100" />
+        <item android:drawable="@drawable/mat5" android:duration="100" />
+        <item android:drawable="@drawable/mat6" android:duration="100" />
+    </animation-list>
